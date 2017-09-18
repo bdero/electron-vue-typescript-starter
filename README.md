@@ -1,4 +1,4 @@
-# Electron-Vue-TypeScript Starter :construction:
+# :nut_and_bolt: Electron-Vue-TypeScript Starter
 
 The Electron Shell starter that'll have you saying "kids these days" faster than you can type `npm start`.
 
@@ -28,7 +28,7 @@ Available commands:
 ### What might I want to customize first?
 
 * This [readme](README.md)
-* The [LICENSE](LICENSE])
+* The [LICENSE](LICENSE)
 * The title and description in [package.json](package.json)
 * Your TypeScript [linting preferences](tslint.json)
 * Your [editor preferences](.editorconfig) (indent size, tabs vs spaces, encoding, etc)
