@@ -11,6 +11,7 @@
     "@types/electron-devtools-installer": "^2.0.2",
     "electron-devtools-installer": "^2.2.0",
     "electron-forge": "^4.0.2",
+    "electron": "1.7.6",
     "electron-prebuilt-compile": "1.7.6",
     "tslint": "^5.7.0",
     "typescript": "^2.5.2"
