@@ -39,6 +39,7 @@ Available commands:
 There are three different TypeScript configurations located in this repository, and all three of them are important:
 * [tsconfig.json](tsconfig.json) contains the configuration used by Visual Studio Code or other editors to configure TypeScript checking. This file pulls in additional type information from the [types](types/) directory, which contains a type definition necessary for proper code completion on imported Vue modules in Visual Studio Code.
 * [_compilerc](_compilerc) contains the two type definitions that are actually used when transpiling for use with Electron, one for development (used when running `npm start`) and one for production (used when running `npm run make`).
+* Due to a [known issue](https://github.com/electron-userland/electron-forge/issues/249) with `npm@4` and `@5`, it's advised to use `npm@3` with Electron Forge: ```npm install -g npm@3```
 
 ### Known issues/future work
 
