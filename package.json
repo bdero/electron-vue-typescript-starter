@@ -1,7 +1,7 @@
 {
   "name": "electron-vue-typescript-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Electron starter that supports VueJS + TypeScript.",
   "main": "src/main.ts",
   "dependencies": {
     "electron-compile": "^6.4.3",
