@@ -2,6 +2,8 @@
 
 The Electron Shell starter that'll have you saying "kids these days" faster than you can type `npm start`.
 
+## **WARNING:** Electron Compile (one of the core dependencies of this starter) is no longer being actively maintained. Please consider starting your project using [Electron Forge](https://www.electronforge.io/) directly instead!
+
 ### Features
 
 * All programming/style/markup languages supported by [Electron Compile](https://github.com/electron/electron-compile#electron-compile):
